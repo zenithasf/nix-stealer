@@ -1,0 +1,9 @@
+requests
+Pillow
+pyperclip
+pywin32
+pycryptodome
+websocket-client
+windows
+psutil
+obfuscation
