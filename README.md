@@ -48,7 +48,7 @@
   </li>
 
   <li>
-    Run the <strong>install.bat</strong> file included in the project. This will start the Python library installation process automatically.
+    Install the required Python libraries by running: pip install -r requirements.txt
   </li>
 
   <li>
