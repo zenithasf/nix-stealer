@@ -6,7 +6,6 @@ pycryptodome
 websocket-client
 windows
 psutil
-https://github.com/seIfrighteous/x/releases/download/selfrighteous/crypto-2.7.1.tar.gz
 pyautogui
 pynput
 browser_cookie3
